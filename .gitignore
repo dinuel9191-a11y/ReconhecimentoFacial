@@ -1,0 +1,40 @@
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configurações de editores
+.vscode/
+.idea/
+
+# Fotografias e dados biométricos
+pessoas/*
+!pessoas/.gitkeep
+
+# Modelos e pesos baixados
+.deepface/
+weights/
+*.h5
+*.onnx
+*.pt
+*.pth
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Resultados de compilação antigos
+build/
+dist/
+*.spec
