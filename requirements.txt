@@ -1,0 +1,6 @@
+
+# Versão recomendada: Python 3.12 de 64 bits
+
+deepface
+opencv-python==4.11.0.86
+numpy==1.26.4
